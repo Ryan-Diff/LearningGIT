@@ -1,0 +1,3 @@
+[user]
+	name = Ryan-Diff
+	email = ryandiffenbaugh@gmail.com\n\n~\nls\ncd ~\n\ngit config --global user.email ryandiffenbaugh@gmail.com
